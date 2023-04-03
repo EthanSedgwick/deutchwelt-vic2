@@ -2163,7 +2163,7 @@ indian_sepoys = {
 # Liberal ("Jacobins")
 ###################################
 liberal_rebels = {
-	icon = 4
+	icon = 6
 	
 	area = nation 					# Stays within the nation
 	break_alliance_on_win = yes
